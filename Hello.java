@@ -3,4 +3,3 @@ class Hello{
 		System.out.println("Welcome to VI-sem");
 	}
 }
-
